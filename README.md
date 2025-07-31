@@ -32,11 +32,16 @@ Frontend project focused on UI/UX aesthetics using Tailwind and Framer Motion.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSharma025&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSharma025&layout=compact&hide=css,html&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ShubhamSharma025&theme=radical&hide_border=true)
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
+    <img height="190" align="center" alt="GitHub Stats" 
+         src="https://github-readme-stats.vercel.app/api?username=ShubhamSharma025&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+    <img width="345" align="center" alt="Top Languages" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSharma025&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/>
+  </a>
+</div>
 
 
 ---
