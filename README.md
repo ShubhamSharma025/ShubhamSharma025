@@ -31,7 +31,8 @@ Frontend project focused on UI/UX aesthetics using Tailwind and Framer Motion.
 ## 📊 GitHub Stats
 
 ![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSharma025&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSharma025&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSharma025&hide=css,html,php&layout=compact)
+
 
 ---
 
