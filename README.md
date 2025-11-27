@@ -4,7 +4,7 @@
 
 🚀 Aspiring Full-Stack Developer | Java & Spring Boot Enthusiast | React Frontend Developer  
 🎯 Focused on building real-world apps and mastering DSA in Java  
-📫 Reach me at: shubhamsh0532@gmail.com | [LinkedIn]()
+📫 Reach me at: shubhamsh0532@gmail.com | [LinkedIn](https://www.linkedin.com/in/-linkshubhamsharma/)
 
 ---
 
